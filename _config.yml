@@ -1,16 +1,16 @@
 typography_spectrum: 0.363163503119722
 color:
-  brandStrength: 0.10095337848179042
-  lightness: 0.1952878162264824
-  saturation: 0.9619169542565942
-  rhythmicContrast: 0.36426337668672204
+  brandStrength: 0.012061506509780884
+  lightness: 0.5976371024735272
+  saturation: 0.1952762850560248
+  rhythmicContrast: 0.8234533716458827
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-layout_spectrum: 0.18193499883636832
+    - '#00261C'
+    - '#044D29'
+    - '#168039'
+    - '#45BF55'
+    - '#96ED89'
+layout_spectrum: 0.9305610822048038
 author:
   name: Maurine Dodge
   email: silvatungfox@gmail.com
