@@ -22,10 +22,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.bioprepper.com/2015/04/28/8-survival-skills-your-great-grandparents-knew-that-most-of-us-have-forgotten/'
 title: 8 Survival Skills Your Great-Grandparents Knew (That Most Of Us Have Forgotten) - Bio Prepper
-datePublished: '2016-05-27T11:50:13.339Z'
-dateModified: '2016-05-27T11:50:13.070Z'
+datePublished: '2016-05-27T20:29:18.196Z'
+dateModified: '2016-05-27T20:29:17.553Z'
 sourcePath: _posts/2016-05-27-8-survival-skills-your-great-grandparents-knew-that-most-of.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
