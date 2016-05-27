@@ -1,4 +1,4 @@
-typography_spectrum: 0.10195020586252213
+typography_spectrum: 0.363163503119722
 color:
   brandStrength: 0.10095337848179042
   lightness: 0.1952878162264824
@@ -10,7 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-layout_spectrum: 0.18602444231510162
+layout_spectrum: 0.18193499883636832
 author:
   name: Maurine Dodge
   email: silvatungfox@gmail.com
