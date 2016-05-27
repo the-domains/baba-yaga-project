@@ -25,10 +25,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.eazypeazymealz.com/7-minute-crock-pot-bread/?utm_campaign=shareaholic&utm_medium=facebook&utm_source=socialnetwork'
 title: 7 Minute (Prep) Artisan Crock Pot Bread
-datePublished: '2016-05-27T02:08:13.032Z'
-dateModified: '2016-05-27T01:54:07.997Z'
-starred: false
+datePublished: '2016-05-27T11:50:10.309Z'
+dateModified: '2016-05-27T11:50:09.787Z'
 sourcePath: _posts/2016-05-27-7-minute-prep-artisan-crock-pot-bread.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
