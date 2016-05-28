@@ -1,11 +1,11 @@
 ---
 description: 'While not quite a separatist I value women and woman’s space and have long dreamed of a community of like minded, feminist oriented women. Michigan was an eye opening experience and having belonged to collectives over the years puts me in a position of seeing what is possible. Stay tuned for the adventure of creating a sustainable community with walipini, tower gardening, solar, and other back to the earth projects.'
-dateModified: '2016-05-27T20:29:13.663Z'
-datePublished: '2016-05-27T20:29:15.242Z'
+dateModified: '2016-05-28T23:14:05.714Z'
+datePublished: '2016-05-28T23:14:06.004Z'
 title: Alternative Community
 author: []
 sourcePath: _posts/2016-05-27-alternative-community.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
