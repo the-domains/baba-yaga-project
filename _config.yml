@@ -11,6 +11,8 @@ color:
     - '#45BF55'
     - '#96ED89'
 layout_spectrum: 0.9305610822048038
+analytics:
+  google: UA-78600613-2
 author:
   name: Maurine Dodge
   email: silvatungfox@gmail.com
