@@ -1,11 +1,11 @@
 ---
 description: ''
-dateModified: '2016-05-29T00:15:19.553Z'
-datePublished: '2016-05-29T00:15:21.819Z'
+dateModified: '2016-06-01T11:33:17.858Z'
+datePublished: '2016-06-01T11:33:18.293Z'
 title: "The purpose of this website is to share survival and common sense lore with our sisters and find like minded souls for communal or collective living arrangements / retirement alternatives. (there's lots more reasons for this website.. education... connection... )"
 author: []
 sourcePath: _posts/2016-05-27-the-purpose-of-this-website-is-to-share-survival-and-common.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
