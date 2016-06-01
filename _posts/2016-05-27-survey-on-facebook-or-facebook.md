@@ -11,10 +11,10 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://apps.facebook.com/my-surveys/form/survival-community-survey?from=admin_wall'
 title: 'Survey on Facebook | Facebook'
-datePublished: '2016-05-27T11:50:05.085Z'
-dateModified: '2016-05-27T11:50:04.755Z'
+datePublished: '2016-06-01T11:33:03.734Z'
+dateModified: '2016-06-01T11:33:03.172Z'
 sourcePath: _posts/2016-05-27-survey-on-facebook-or-facebook.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
