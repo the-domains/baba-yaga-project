@@ -1,11 +1,11 @@
 ---
 description: 'While not quite a separatist I value women and woman’s space and have long dreamed of a community of like minded, feminist oriented women.'
-dateModified: '2016-05-31T17:34:09.081Z'
-datePublished: '2016-05-31T17:34:09.928Z'
+dateModified: '2016-06-01T11:33:15.148Z'
+datePublished: '2016-06-01T11:33:15.693Z'
 title: Alternative Community
 author: []
 sourcePath: _posts/2016-05-27-alternative-community.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
