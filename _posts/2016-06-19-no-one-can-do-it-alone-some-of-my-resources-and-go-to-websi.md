@@ -1,18 +1,13 @@
 ---
-description: >-
-  The best option for this situation is the proven Berkey water filter. Berkey
-  filters are gravity filters that use cleanable micro-permeable ceramic filter
-  elements. These filters are extremely effective, long-lasting and require no
-  electricity. The only drawback is that they are expensive, and money saved is
-  money that can be spent on other preps.
-dateModified: '2016-06-19T15:10:23.990Z'
-datePublished: '2016-06-19T15:10:37.504Z'
+description: ''
+dateModified: '2016-06-19T15:47:56.007Z'
+datePublished: '2016-06-19T15:48:25.661Z'
 title: 'No one can do it alone, some of my resources and go to websites.'
 author: []
 isBasedOnUrl: 'http://www.alpharubicon.com/kids/homemadeberkeydaire.htm'
-starred: false
 sourcePath: >-
   _posts/2016-06-19-no-one-can-do-it-alone-some-of-my-resources-and-go-to-websi.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -23,7 +18,6 @@ _type: MediaObject
 
 # No one can do it alone, some of my resources and go to websites.
 
-* Websites I have found information on that was of use and may be of use to you as well.
 * http://www.truthistreason.net/16-survival-downloads-field-manuals-and-handbooks
 * http://www.getemergencyprepared.com/index.html
 * http://kingcoseed.org/find-a-seed-library-near-you/
