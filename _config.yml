@@ -1,16 +1,16 @@
-typography_spectrum: 0.7784367788117379
+typography_spectrum: 0.11605041520670056
 color:
-  brandStrength: 0.2992453561164439
-  lightness: 0.4463987599592656
-  saturation: 0.5999334761872888
-  rhythmicContrast: 0.857278254814446
+  brandStrength: 0.22685786103829741
+  lightness: 0.36009328439831734
+  saturation: 0.5241228840313852
+  rhythmicContrast: 0.7822988261468709
   brandColors:
-    - '#7D8A2E'
-    - '#C9D787'
-    - '#FFFFFF'
-    - '#FFC0A9'
-    - '#FF8598'
-layout_spectrum: 0.6575479255989194
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+layout_spectrum: 0.4133679992519319
 analytics:
   google: UA-78600613-2
   facebook: ' 1788863521350364'
