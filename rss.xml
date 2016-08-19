@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[babayaga project&nbsp;]]></title>
-        <description><![CDATA[babayaga project&nbsp;]]></description>
+        <title><![CDATA[Feminist Community by Design]]></title>
+        <description><![CDATA[Feminist Community by Design]]></description>
         <link>https://thegrid.ai/baba-yaga-project/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 19 Jun 2016 16:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 00:32:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/baba-yaga-project/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cbc232f-605f-4b4c-b2cd-7b75151d1a51.png">]]></description>
+            <link>https://thegrid.ai/baba-yaga-project/75e690da-244a-411e-9802-d914078c72d4/index.html</link>
+            <guid isPermaLink="false">75e690da-244a-411e-9802-d914078c72d4</guid>
+            <pubDate>Fri, 19 Aug 2016 00:32:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/13335852_10208336357579057_2421585110720833991_n.jpg?oh=9883f56771ce78f0faf930ac512ab958&oe=57D89CC9"></article>]]></description>
